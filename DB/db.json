@@ -1,0 +1,76 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"Samsung M40",
+            "color":"black",
+            "price":15000,
+            "category":"phone",
+            "brand":"samsung",
+            "image":"https://i1.wp.com/mobilesly.com/wp-content/uploads/2020/12/gguiiol.jpg?fit=%2C&ssl=1"
+        },
+        {
+            "id":2,
+            "name":"Samsung M41",
+            "color":"green",
+            "price":15000,
+            "category":"phone",
+            "brand":"samsung",
+            "image":"https://i1.wp.com/mobilesly.com/wp-content/uploads/2020/12/gguiiol.jpg?fit=%2C&ssl=1"
+        },
+        {
+            "id":3,
+            "name":"Samsung M42",
+            "color":"gold",
+            "price":15000,
+            "category":"phone",
+            "brand":"samsung",
+            "image":"https://i1.wp.com/mobilesly.com/wp-content/uploads/2020/12/gguiiol.jpg?fit=%2C&ssl=1"
+        },
+        {
+            "id":4,
+            "name":"Samsung M43",
+            "color":"gray",
+            "price":15000,
+            "category":"phone",
+            "brand":"samsung",
+            "image":"https://i1.wp.com/mobilesly.com/wp-content/uploads/2020/12/gguiiol.jpg?fit=%2C&ssl=1"
+        },
+        {
+            "id":5,
+            "name":"Samsung M44",
+            "color":"blue",
+            "price":15000,
+            "category":"phone",
+            "brand":"samsung",
+            "image":"https://i1.wp.com/mobilesly.com/wp-content/uploads/2020/12/gguiiol.jpg?fit=%2C&ssl=1"
+        },
+        {
+            "id":6,
+            "name":"Oppo f19",
+            "color":"blue",
+            "price":20000,
+            "category":"phone",
+            "brand":"oppo",
+            "image":"https://i1.wp.com/mobilesly.com/wp-content/uploads/2020/12/gguiiol.jpg?fit=%2C&ssl=1"
+        },
+        {
+            "id":7,
+            "name":"Audionic A4",
+            "color":"black",
+            "price":2500,
+            "category":"earphone",
+            "brand":"audionic",
+            "image":"https://i1.wp.com/mobilesly.com/wp-content/uploads/2020/12/gguiiol.jpg?fit=%2C&ssl=1"
+        },
+        {
+            "id":8,
+            "name":"I phone 12 pro max",
+            "color":"silver",
+            "price":65000,
+            "category":"phone",
+            "brand":"apple",
+            "image":"https://i1.wp.com/mobilesly.com/wp-content/uploads/2020/12/gguiiol.jpg?fit=%2C&ssl=1"
+        }
+    ]
+}
